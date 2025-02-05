@@ -3,3 +3,5 @@ scikit-learn
 os
 shutil
 yaml
+cv2
+matplotlib
