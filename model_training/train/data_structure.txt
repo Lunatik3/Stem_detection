@@ -1,0 +1,8 @@
+# stem_detection/
+#   ├─ train/
+#   │    ├─ images/*.jpg
+#   │    └─ labels/*.txt
+#   ├─ val/
+#   │    ├─ images/*.jpg
+#   │    └─ labels/*.txt
+#   └─ data.yaml
